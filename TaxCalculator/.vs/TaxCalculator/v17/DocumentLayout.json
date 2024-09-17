@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D93C79-CA49-4CA4-8E59-BA75D45A69CC}|..\\TaxCalculator.Application\\TaxCalculator.Application.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.application\\common\\services\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F71A30-2BBE-42B0-8554-3A319A705F25}|..\\TaxCalculator.Data\\TaxCalculator.Persistence.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.data\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F71A30-2BBE-42B0-8554-3A319A705F25}|..\\TaxCalculator.Data\\TaxCalculator.Persistence.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.data\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3824F246-869B-41A3-A4E1-E1D3BA757E34}|TaxCalculator.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3824F246-869B-41A3-A4E1-E1D3BA757E34}|TaxCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F71A30-2BBE-42B0-8554-3A319A705F25}|..\\TaxCalculator.Data\\TaxCalculator.Persistence.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3824F246-869B-41A3-A4E1-E1D3BA757E34}|TaxCalculator.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3824F246-869B-41A3-A4E1-E1D3BA757E34}|TaxCalculator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D93C79-CA49-4CA4-8E59-BA75D45A69CC}|..\\TaxCalculator.Application\\TaxCalculator.Application.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.application\\common\\interfaces\\itaxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D93C79-CA49-4CA4-8E59-BA75D45A69CC}|..\\TaxCalculator.Application\\TaxCalculator.Application.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.application\\features\\congestiontaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10ACD59D-B503-420E-9F8D-7F944AD7B0D0}|..\\TaxCalculator.Domain\\TaxCalculator.Domain.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.domain\\vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10ACD59D-B503-420E-9F8D-7F944AD7B0D0}|..\\TaxCalculator.Domain\\TaxCalculator.Domain.csproj|c:\\users\\zagros\\desktop\\v\\project\\taxcalculator.domain\\pass\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:44:51.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T11:33:53.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:00:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Repositories\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Data\\Repositories\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Repositories\\IVehicleRepository.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Data\\Repositories\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:07:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Data\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Data\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Data\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA7wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:08:16.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxRule.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Common\\Services\\TaxRule.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Application\\Common\\Services\\TaxRule.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Common\\Services\\TaxRule.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Application\\Common\\Services\\TaxRule.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:57:06.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaxRule.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Common\\Interfaces\\ITaxRule.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Application\\Common\\Interfaces\\ITaxRule.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Common\\Interfaces\\ITaxRule.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Application\\Common\\Interfaces\\ITaxRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:56:23.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CongestionTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Features\\CongestionTaxService.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Application\\Features\\CongestionTaxService.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Application\\Features\\CongestionTaxService.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Application\\Features\\CongestionTaxService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:29:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pass.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Domain\\Pass\\Pass.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Domain\\Pass\\Pass.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Domain\\Pass\\Pass.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Domain\\Pass\\Pass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:37:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Domain\\Vehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalculator.Domain\\Vehicle\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Zagros\\Desktop\\v\\Project\\TaxCalculator.Domain\\Vehicle\\Vehicle.cs",
+              "RelativeToolTip": "..\\TaxCalculator.Domain\\Vehicle\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:36:48.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\bin\Debug\net8.0\TaxCalculator.Domain.deps.json
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\bin\Debug\net8.0\TaxCalculator.Domain.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\bin\Debug\net8.0\TaxCalculator.Domain.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.AssemblyInfo.cs
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\refint\TaxCalculator.Domain.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\TaxCalculator.Domain.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Domain\obj\Debug\net8.0\ref\TaxCalculator.Domain.dll

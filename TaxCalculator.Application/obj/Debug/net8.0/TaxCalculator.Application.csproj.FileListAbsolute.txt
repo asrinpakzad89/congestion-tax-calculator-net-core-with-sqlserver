@@ -1,0 +1,17 @@
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Application.deps.json
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Application.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Application.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Domain.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Persistence.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Persistence.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\bin\Debug\net8.0\TaxCalculator.Domain.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.csproj.AssemblyReference.cache
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.AssemblyInfoInputs.cache
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.AssemblyInfo.cs
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalcu.3AFE120E.Up2Date
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\refint\TaxCalculator.Application.dll
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\TaxCalculator.Application.pdb
+C:\Users\Zagros\Desktop\v\Project\TaxCalculator.Application\obj\Debug\net8.0\ref\TaxCalculator.Application.dll
